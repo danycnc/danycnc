@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate about the IT / ICT world, since adolescence I approached this world with great curiosity and desire to learn. I like to go to the bottom and understand as much as possible every aspect of the things I learn by going "behind the scenes", it is no coincidence that I use Linux as an everyday OS. Particular passion for programming and networking.
+Passionate about the IT / ICT world, since adolescence I approached this world with great curiosity and desire to learn. I like to go to the bottom and understand as much as possible every aspect of the things I learn by going "behind the scenes", for this reason I use Linux as my default OS. Particular passion for programming and networking.
 
 After a two-year experience in the TLC field thanks to a Cisco CCNA certification, I decided to broaden my knowledge in the IT field by attending various courses on Udemy.
 
