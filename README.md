@@ -4,7 +4,7 @@ Passionate about the IT / ICT world, since adolescence I approached this world w
 
 After a two-year experience in the TLC field thanks to a Cisco CCNA certification, I decided to broaden my knowledge in the IT field by attending various courses on Udemy.
 
-From January I moved my focus to the Web, combining programming and networking, starting to attend a Full Stack Developer course at <a href="www.develhope.co">Develhope</a>
+Now I moved my focus to the Web, combining programming and networking, starting to attend a Full Stack Developer course at <a href="http://www.develhope.co">Develhope</a>
 
 - 🌱 I’m currently learning ... HTML5, CSS/SASS, JavaScript, TypeScript, React, NodeJS
 
