@@ -6,7 +6,7 @@ After a two-year experience in the TLC field thanks to a Cisco CCNA certificatio
 
 Now I moved my focus to the Web, combining programming and networking, starting to attend a Full Stack Developer course at <a href="http://www.develhope.co">Develhope</a>
 
-- 🌱 I’m currently learning ... HTML5, CSS/SASS, JavaScript, TypeScript, React, NodeJS
+- 🌱 I’m currently learning ... HTML5, CSS/SASS, JavaScript, TypeScript, React, Redux, NodeJS, Express, SQL(Postgress), noSQL(MongoDB)
 
 <!--
 **danycnc/danycnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
